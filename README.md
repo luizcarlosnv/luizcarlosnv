@@ -8,7 +8,9 @@ Systems Analyst at [Secretaria de Desenvolvimento Agrário do Ceará](http://www
 Web and Mobile Developer!
 
 - PHP developer;
-- Angular front end developer;
+- React end developer;
+  - MUI
+  - Next.js
 - Hybrid app developer with:
   - Ionic Framework and;
   - React Native (still learning)
